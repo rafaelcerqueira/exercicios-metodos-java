@@ -4,4 +4,6 @@
 
 ### 2: Criar um método que exibe uma mensagem de acordo com o horário do dia.
 
-### 3: Criar um método com sobrecarga para calcular as áreas dos quadriláteros
+### 3: Criar um método com sobrecarga para calcular as áreas dos quadriláteros.
+
+### 4: Refatore os métodos para calcular área dos quadrilateros agora utilizando o return.
